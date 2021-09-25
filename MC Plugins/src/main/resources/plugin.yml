@@ -5,3 +5,8 @@ api-version: 1.17
 authors: [ Stroyer_ ]
 description: Staff Test for LonelyMC by Stroyer_
 website: github.com/stroyerr
+commands:
+  stafftest:
+    usage: /<command>
+    description: General command for StaffTest by Stroyer_
+    aliases: [st, stest, test, stafft, tests, teststaff, tstaff]
