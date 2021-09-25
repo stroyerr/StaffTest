@@ -1,0 +1,7 @@
+name: StaffTest
+version: ${project.version}
+main: au.stroyer.stafftest.Main
+api-version: 1.17
+authors: [ Stroyer_ ]
+description: Staff Test for LonelyMC by Stroyer_
+website: github.com/stroyerr
